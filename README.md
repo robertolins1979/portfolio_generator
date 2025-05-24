@@ -1,4 +1,4 @@
-# 📄 Portfolio Generator
+# 📄 portfolio_generator
 
 **Gerador de currículo e portfólio HTML baseado em templates e dados em JSON.**
 
