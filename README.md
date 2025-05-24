@@ -1,12 +1,12 @@
 # 📄 portfolio_generator
 
-**Gerador de currículo e portfólio HTML baseado em templates e dados em JSON.**
+**Gerador de currículo HTML baseado em templates e dados em JSON.**
 
 ---
 
 ## 🔧 Como Funciona
 
-Este projeto gera automaticamente duas páginas HTML (`index.html` e `resume.html`) contendo seu currículo e portfólio a partir de um arquivo JSON com seus dados e um conjunto de templates predefinidos.
+Este projeto gera automaticamente duas páginas HTML (`index.html` e `resume.html`) contendo seu currículo a partir de um arquivo JSON com seus dados e templates predefinidos.
 
 ---
 
